@@ -1,0 +1,2 @@
+PS E:\Portfolio> git config --global user.email "mrtharunkumar2k03@gmail.com"
+PS E:\Portfolio> git config --global user.name "Tharun Kumar K S"
